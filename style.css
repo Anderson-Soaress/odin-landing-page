@@ -114,3 +114,29 @@
     width: 160px;
     margin-bottom: 5px;
 }
+
+/* Quote */
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    margin-top:100px;
+}
+
+.quote_content{
+    margin:100px;
+    width: 800px;
+}
+.quote_text{
+    font-size: 36px;
+    color:#6e737c;
+    text-align: justify;
+    font-style: italic;
+}
+
+.quote_author{
+    margin-top:10px;
+    color:#1F2937;
+    float:right;
+}
