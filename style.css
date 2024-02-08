@@ -130,7 +130,7 @@
 }
 .quote_text{
     font-size: 36px;
-    color:#6e737c;
+    color:#54585f;
     text-align: justify;
     font-style: italic;
 }
@@ -139,4 +139,41 @@
     margin-top:10px;
     color:#1F2937;
     float:right;
+    font-size: 24px;
+}
+
+/*sign up*/
+.sign-up{
+    display: flex;
+    justify-content: center;
+    color:#E5E7EB;
+}
+.sign-up_content{
+    margin:100px 0px;
+    padding:50px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.sign-up_content h3{
+    color:white;}
+
+.sign-up button{
+    color:white;
+    border:solid 2px white;
+    border-radius: 8px;
+    background-color: #3882F6;
+    padding:8px 30px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color:#F9FAF8;
+    font-size: 18px;
+    padding:50px;
+    text-align: center;
 }
